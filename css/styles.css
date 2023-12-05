@@ -1,0 +1,203 @@
+#app. {
+    box-sizing: border-box;
+}
+.container{
+background-image: url(/assets/img/backgoundcolours.png);
+}
+
+.container2{
+    
+    display: flex;
+    flex-direction: column;
+   
+
+}
+.heart{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgb(240, 240, 240);
+    background-color: white;
+}
+.navHeader{
+    translate: -260px;
+    
+}
+.menu{
+    
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    gap: 30px;
+    
+}
+.corazon{
+    translate: 200px
+}
+.tabindex{
+  
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  translate: -450px
+}
+#nav-pro-link,#nav-teams-link,#nav-pricing-link,#nav-documentation-link{
+    text-decoration: none;
+    color: black;
+}
+.container3{
+    display: flex;
+    background-color: white;
+    justify-content: space-around;
+    padding: 25px;
+
+}
+.search{
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    width: 1250px;
+}
+.npm-buton{
+    display: flex;
+    align-items: center;
+}
+.formSearch{
+    display: flex;
+    align-items: center;
+    background-color: rgb(235, 223, 223);
+    gap: 8px;
+}
+.lupa{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(235, 223, 223);
+    max-height: 100%;
+    align-items: center;
+    cursor: pointer;
+}
+.buttonSearch{
+    background-color: black;
+    color: white;
+    border: none;
+    width: 135px;
+    height: 75px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.button2{
+    display: flex;
+    justify-content: flex-start;
+   
+}
+.buttonSingUp{
+    width: 135px;
+    height: 75px;
+    translate: -25px;
+    background-color: white;
+    border: 1px solid rgb(79, 77, 77);
+    font-size: 20px;
+    cursor: pointer;
+}
+.buttonSingIn{
+    width: 135px;
+    height: 75px;
+   background: none;
+   border: none;
+   translate: -25px;
+   font-size: 20px;
+   cursor: pointer;
+}
+.containerCentre{
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    align-items: center;
+    color: white;
+}
+.h1{
+    font-size: 115px;
+    text-align: center;
+    line-height: 1.2; 
+}
+.containerCentre2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.h2{
+    font-size: 45px;
+    text-align: center;
+    line-height: 1.2; 
+}
+.text{
+    text-align: center;
+    font-size: 18px;
+}
+.buttonMain{
+
+}
+.buttonMainSign{
+
+}
+.buttonSingUpFree{
+
+}
+.buttonMainLearn{
+
+}
+.buttonLearn{
+
+}
+.section2{
+    background-color: white;
+    padding: 25px;
+}
+.containerCentre3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+}
+.h22{
+    text-align: center;
+    font-size: 45px;
+}
+
+.img1{
+    width: 150px;
+    height: 150px;
+}
+.footer{
+    padding: 25px;
+    border-top: 1px solid rgb(223, 210, 210);;
+    background-color: white;
+
+}
+.containerFooter{
+    display: flex;   
+    justify-content: space-between; 
+    
+}
+.img2 {
+    width: 60px;
+    height: 60px;
+
+}
+.footer2{
+    text-decoration: none;
+    list-style: none;
+    cursor: pointer;
+}
+.link{
+    text-decoration: none;
+}
+
+.list1, .list2, .list3 {
+    text-decoration: none;
+    list-style: none;
+    cursor: pointer;
+}

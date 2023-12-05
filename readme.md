@@ -14,7 +14,6 @@ Tienes la estructura de archivos y carpetas del proyecto hecha y organizada.
 
 Los archivos index.html y styles.css están completamente vacíos para que puedas comenzar desde 0 tu proyecto. No olvides crear bien la estructura del HTML y "enganchar" las CSS.
 
-En assets/img tienes todas las imgenes necesarias. Además aquí tienes el corazón que aparece al inicio ❤ para que lo copies y lo pegues en tu proyecto.
 
 En el momento de crear el ejercicio tiene el siguiente aspecto:
 
